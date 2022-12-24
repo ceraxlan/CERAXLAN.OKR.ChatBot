@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "wp63zzAre2XMmvN1ZF4Va324B3SuatxXcmVgd4ugmtc=",
+  "Source": "CERAXLAN.OKR.ChatBot",
+  "BasePath": "_content/CERAXLAN.OKR.ChatBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CERAXLAN.OKR.ChatBot\\wwwroot",
+      "Source": "CERAXLAN.OKR.ChatBot",
+      "ContentRoot": "C:\\Users\\cerax\\Documents\\GitHub\\CERAXLAN.OKR.ChatBot\\CERAXLAN.OKR.ChatBot\\CERAXLAN.OKR.ChatBot\\wwwroot\\",
+      "BasePath": "_content/CERAXLAN.OKR.ChatBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\cerax\\Documents\\GitHub\\CERAXLAN.OKR.ChatBot\\CERAXLAN.OKR.ChatBot\\CERAXLAN.OKR.ChatBot\\wwwroot\\default.htm",
+      "SourceId": "CERAXLAN.OKR.ChatBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cerax\\Documents\\GitHub\\CERAXLAN.OKR.ChatBot\\CERAXLAN.OKR.ChatBot\\CERAXLAN.OKR.ChatBot\\wwwroot\\",
+      "BasePath": "_content/CERAXLAN.OKR.ChatBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
